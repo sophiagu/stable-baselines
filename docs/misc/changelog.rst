@@ -27,7 +27,7 @@ Others:
 
 Documentation:
 ^^^^^^^^^^^^^^
-
+- Added stable-baselines-tf2 link on Projects page.
 
 
 Release 2.10.1 (2020-08-05)
