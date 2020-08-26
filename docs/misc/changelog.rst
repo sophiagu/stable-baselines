@@ -27,7 +27,7 @@ Others:
 
 Documentation:
 ^^^^^^^^^^^^^^
-- Added stable-baselines-tf2 link on Projects page.
+- Added stable-baselines-tf2 link on Projects page. (@sophiagu)
 
 
 Release 2.10.1 (2020-08-05)
@@ -745,4 +745,4 @@ Thanks to @bjmuld @iambenzo @iandanforth @r7vme @brendenpetersen @huvar @abhiskk
 @Miffyli @dwiel @miguelrass @qxcv @jaberkow @eavelardev @ruifeng96150 @pedrohbtp @srivatsankrishnan @evilsocket
 @MarvineGothic @jdossgollin @SyllogismRXS @rusu24edward @jbulow @Antymon @seheevic @justinkterry @edbeeching
 @flodorner @KuKuXia @NeoExtended @PartiallyTyped @mmcenta @richardwu @tirafesi @caburu @johannes-dornheim @kvenkman @aakash94
-@enderdead @hardmaru @jbarsce @ColinLeongUDRI @shwang @YangRui2015
+@enderdead @hardmaru @jbarsce @ColinLeongUDRI @shwang @YangRui2015 @sophiagu
